@@ -38,6 +38,15 @@ Loft: 25 * 150 kr. = 3750 kr.
 
 Niels vil gerne have at der er en morsom selskabsleg.
 
+### Zero-knowledge tale:
++ Preben:" Det har været et dårligt år..."
++ Publikum heiler
++ Preben:"... ville jeg sige hvis jeg havde gidet skrive min tale"
++ Preben gad ikke lige skrive sin tale, så nu skal publikum gøre det.
++ Da det ikke er sjovt at holde en tale som alle kender bliver det en zero-knowledge tale, og man kender kun en linje..."
++ For at blive færdig i dag paralelliserer vi, - bare rolig det er ikke svært, vi dropper bare de der semaforer, og talen sammensættes i den rækkefølge den indleveres"
++ Preben udleverer papir og skriveredskaber.
+
 
 ## Andet indkøb
 
@@ -62,3 +71,4 @@ Niels vil gerne have at der er en morsom selskabsleg.
   huske at købe noget.
 + øl til Niels & co.: Det er ikke en del af fællesregningen.  Niels skal
   huske at købe noget.
++ Papir og skrive ting. Simon prøver at huske dette.
