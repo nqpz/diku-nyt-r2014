@@ -1,4 +1,6 @@
-# Antal deltagere
+# Overblik
+
+## Antal deltagere
 
 Der kommer i hvert fald 24-25, men måske er der også tilmeldinger i sidste
 øjeblik.
@@ -8,7 +10,7 @@ Vi laver mad til 30.
 Forventet pris pr. person: 100-150 kr.
 
 
-# Madallergier
+## Madallergier
 
 + æg
 + rå frugt og grønt
@@ -20,25 +22,25 @@ Forventet pris pr. person: 100-150 kr.
 + en af deltagerne kan virkelig ikke lide ost
 
 
-# Retter
+## Retter
 
 + Hovedret:
   + steg
   + kartofler af en art (bagte, saltede)
   + bønnesalat
   + måske flutes
-+ Dessert: marengsbunde med is og flødeskum?
++ Dessert: tiramisu uden æg
 + Midnat: Andreas-venlig kransekage
 
 
-# Morskab efter maden
+## Morskab efter maden
 
 ???
 
 Niels vil gerne have at der er en morsom selskabsleg.
 
 
-# Andet indkøb
+## Andet indkøb
 
 + fryseposer
 + salt
@@ -50,7 +52,7 @@ Niels vil gerne have at der er en morsom selskabsleg.
 + chips
 
 
-# Andet andet
+## Andet andet
 
 + champagneglas: Niels har 29 champagneglas fra sidste år, og Kantinen har også
   glas i den dur som vi kan låne.
