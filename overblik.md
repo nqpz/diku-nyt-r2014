@@ -2,12 +2,11 @@
 
 ## Antal deltagere
 
-Der kommer i hvert fald 24-25, men måske er der også tilmeldinger i sidste
-øjeblik.
-
-Vi laver mad til 30.
+Der kommer 24-25.  Vi laver mad til 25.
 
 Forventet pris pr. person: 100-150 kr.
+
+Loft: 25 * 150 kr. = 3750 kr.
 
 
 ## Madallergier
@@ -26,7 +25,7 @@ Forventet pris pr. person: 100-150 kr.
 
 + Hovedret:
   + steg
-  + kartofler af en art (bagte, saltede)
+  + bagte kartofler
   + bønnesalat
   + måske flutes
 + Dessert: tiramisu uden æg
