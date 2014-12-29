@@ -30,7 +30,7 @@ Loft: 25 * 150 kr. = 3750 kr.
 + Forret: kartoffelsuppe med brød
 + Hovedret:
   + striploin
-  + bagte kartofler
+  + bagte kartofler med kryddersmør
   + bønnesalat
 + Dessert: tiramisu uden æg
 + Midnat: Andreas-venlig kransekage
@@ -55,6 +55,7 @@ Loft: 25 * 150 kr. = 3750 kr.
 + bagepapir
 + olie
 + store foliebakker til kød
++ husholdningsfilm
 + terpentiner, stjernekastere og masser af bordbomber (dog helst noget der ikke
   er umuligt at rydde op bagefter)!
 + servietter
