@@ -1,7 +1,9 @@
 # Overblik
 
-Overblik for nytårsaften 2014 på DIKU.  Dette kan også bruges som en guide til
-næste års nytårsaftener.
+Dette dokument har et overblik over indkøb og struktur af nytårsaften 2014 på
+DIKU.  Se [madplan.md]() for plan for madlavning.
+
+Dette kan også bruges som en guide til næste års nytårsaftener.
 
 
 ## Antal deltagere
@@ -10,7 +12,7 @@ Der kommer 23-25.  Vi laver mad til 25.
 
 Forventet pris pr. person: 100-150 kr.
 
-Loft: 25 * 150 kr. = 3750 kr.
+Loft: 23 * 150 kr. = 3450 kr.
 
 
 ## Madallergier
@@ -59,7 +61,10 @@ Loft: 25 * 150 kr. = 3750 kr.
 + terpentiner, stjernekastere og masser af bordbomber (dog helst noget der ikke
   er umuligt at rydde op bagefter)!
 + servietter
++ papirsdug
 + chips
++ isterningeposer
++ måske batterier til elektrisk udstyr
 
 
 ## Andet andet
@@ -74,3 +79,4 @@ Loft: 25 * 150 kr. = 3750 kr.
 + øl til Niels & co.: Det er ikke en del af fællesregningen.  Niels skal
   huske at købe noget.
 + Papir og skriveting. Simon prøver at huske dette.
++ Husk virkende stegetermometer til stegen.

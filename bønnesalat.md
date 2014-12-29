@@ -2,4 +2,7 @@
 
 Grønne bønner, hvidløg og bacontern
 
-Husk at lave nok til to portioner uden bacon.
+
+## Allergikere
+
+Husk at lave en skål uden bacon til vores to ikke-bacon-spisere.
