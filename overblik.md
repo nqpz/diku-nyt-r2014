@@ -1,5 +1,9 @@
 # Overblik
 
+Overblik for nytårsaften 2014 på DIKU.  Dette kan også bruges som en guide til
+næste års nytårsaftener.
+
+
 ## Antal deltagere
 
 Der kommer 23-25.  Vi laver mad til 25.
