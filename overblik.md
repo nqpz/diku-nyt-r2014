@@ -1,7 +1,7 @@
 # Overblik
 
 Dette dokument har et overblik over indkøb og struktur af nytårsaften 2014 på
-DIKU.  Se [madplan.md]() for plan for madlavning.
+DIKU.  Se [madplan.md](madplan.md) for plan for madlavning.
 
 Dette kan også bruges som en guide til næste års nytårsaftener.
 
