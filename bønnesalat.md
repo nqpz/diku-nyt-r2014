@@ -1,3 +1,5 @@
 # Bønnesalat
 
-bønner, hvidløg og bacontern (skal være som tilbehør pga. bacon-allergi)
+Grønne bønner, hvidløg og bacontern
+
+Husk at lave nok til to portioner uden bacon.

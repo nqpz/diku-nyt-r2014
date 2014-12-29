@@ -2,7 +2,7 @@
 
 ## Antal deltagere
 
-Der kommer 24-25.  Vi laver mad til 25.
+Der kommer 23-25.  Vi laver mad til 25.
 
 Forventet pris pr. person: 100-150 kr.
 
@@ -23,8 +23,9 @@ Loft: 25 * 150 kr. = 3750 kr.
 
 ## Retter
 
++ Forret: kartoffelsuppe
 + Hovedret:
-  + steg
+  + striploin
   + bagte kartofler
   + bønnesalat
   + måske flutes
@@ -33,10 +34,6 @@ Loft: 25 * 150 kr. = 3750 kr.
 
 
 ## Morskab efter maden
-
-???
-
-Niels vil gerne have at der er en morsom selskabsleg.
 
 ### Zero-knowledge tale:
 + Preben:" Det har været et dårligt år..."
@@ -55,8 +52,9 @@ Niels vil gerne have at der er en morsom selskabsleg.
 + bagepapir
 + olie
 + store foliebakker til kød
-+ pynt, stjernekastere og masser af bordbomber (dog helst noget der ikke er
-  umuligt at rydde op bagefter)!
++ terpentiner, stjernekastere og masser af bordbomber (dog helst noget der ikke
+  er umuligt at rydde op bagefter)!
++ servietter
 + chips
 
 
@@ -67,8 +65,8 @@ Niels vil gerne have at der er en morsom selskabsleg.
 + piskeris: Man kan ikke stole på Kantinens i øjeblikket, så vi skal selv tage
   med.  Niels tager sin med.
 + viskestykker: Vi skal have egne med.  Niels tager en bunke med.
-+ vin til Brainfuck & co.: Det er ikke en del af fællesregningen.  Nogen skal
++ vin til Brainfuck & co.: Det er ikke en del af fællesregningen.  Niels skal
   huske at købe noget.
 + øl til Niels & co.: Det er ikke en del af fællesregningen.  Niels skal
   huske at købe noget.
-+ Papir og skrive ting. Simon prøver at huske dette.
++ Papir og skriveting. Simon prøver at huske dette.
