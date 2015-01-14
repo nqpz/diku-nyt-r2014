@@ -8,11 +8,11 @@ Dette kan også bruges som en guide til næste års nytårsaftener.
 
 ## Antal deltagere
 
-Der kommer 23-25.  Vi laver mad til 25.
+Der kommer 25-27.  Vi laver mad til 30.
 
 Forventet pris pr. person: 100-150 kr.
 
-Loft: 23 * 150 kr. = 3450 kr.
+Loft: 25 * 150 kr. = 3750 kr.
 
 
 ## Madallergier
@@ -79,4 +79,5 @@ Loft: 23 * 150 kr. = 3450 kr.
 + øl til Niels & co.: Det er ikke en del af fællesregningen.  Niels skal
   huske at købe noget.
 + Papir og skriveting. Simon prøver at huske dette.
-+ Husk virkende stegetermometer til stegen.
++ virkende stegetermometer til stegen
++ håndmixer til hvis Kantinens er i udu
